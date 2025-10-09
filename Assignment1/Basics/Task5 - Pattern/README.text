@@ -1,0 +1,42 @@
+Pattern Printing in Java - Assignment
+Prepared for: Arumugam B
+
+Files Included (8 Java Source Files):
+1. SquarePattern.java
+2. RightTrianglePattern.java
+3. LeftTrianglePattern.java
+4. DiamondPattern.java
+5. NumberPyramidPattern.java
+6. StaircasePattern.java
+7. HollowSquarePattern.java
+8. HollowDiamondPattern.java
+
+Description:
+This assignment contains 8 Java programs demonstrating pattern printing concepts using loops and conditional statements.
+Each program focuses on nested loop logic and how spaces, stars, and numbers can be arranged to form various patterns.
+
+Concepts Covered:
+- Nested for loops
+- Space and alignment handling
+- Conditional logic for hollow patterns
+- Increment and decrement patterns
+- Symmetrical pattern formation
+
+How to Compile:
+If all files are in a folder named patterns_all8, run:
+    javac patterns_all8/*.java
+Or, if you are inside the directory:
+    javac *.java
+
+How to Run:
+Example:
+    java SquarePattern
+    java DiamondPattern
+    java NumberPyramidPattern
+
+Each program prints the desired pattern on the console.
+
+Notes:
+- All programs use loops only (no built-in pattern libraries).
+- You can change the size (n) in each program to generate larger or smaller patterns.
+- Great for understanding nested iteration, symmetry, and output formatting.
